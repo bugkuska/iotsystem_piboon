@@ -28,7 +28,7 @@
 // =========================
 // Change this default per device if needed
 // =========================
-#define DEFAULT_SITE_ID "site01"
+#define DEFAULT_SITE_ID "site01" //แก้ Sitename เช่น siteX
 
 // =========================
 // WiFiManager AP
