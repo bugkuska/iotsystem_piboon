@@ -33,7 +33,7 @@
 // =========================
 // WiFiManager AP
 // =========================
-#define AP_NAME "ESP32-WaterQuality"
+#define AP_NAME "ESP32-WaterQuality-SiteX" //แก้ชื่อ Wireless Point
 #define AP_PASS "12345678"
 
 // =========================
